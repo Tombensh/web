@@ -16,3 +16,4 @@ This section needs to be updated as you develop your project
 **Versions:**
 *1.0.0*
 - Initial project structure
+    - added index.html
