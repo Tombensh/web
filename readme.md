@@ -1,8 +1,9 @@
 # WEB Project 2019 Semester B - BGU
 **Author: Tom Ben Sheffer**
+
 **Repository:
-[http://github.com/tombensh/web](http://github.com/tombensh/web)*
-*
+[http://github.com/tombensh/web](http://github.com/tombensh/web)**
+
 **Version: 1.0**
 ## Project subject
 > A guitar-seller website.
