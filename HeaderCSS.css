@@ -1,0 +1,11 @@
+#LoginBar{
+    display: inline;
+    position: relative;
+    left: 913px;
+}
+
+.HeaderLogo{
+    position: relative;
+    left: 650px;
+    width: 350px;
+}
