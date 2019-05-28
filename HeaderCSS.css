@@ -6,7 +6,25 @@
 
 .HeaderLogo{
     position: relative;
-    left: 650px;
+    left: 1200px;
     width: 350px;
 }
 
+#about\ us{
+    color: chocolate;
+}
+
+.Description{
+    color: chocolate;
+}
+
+body {
+    background-image: url("images/BG1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+footer {
+    color: chocolate;
+}
