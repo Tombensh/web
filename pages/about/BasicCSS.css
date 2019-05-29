@@ -10,16 +10,12 @@
     width: 350px;
 }
 
-#about\ us{
-    color: chocolate;
-}
-
-.Description{
-    color: chocolate;
+.content {
+    color: #242424;
 }
 
 body {
-    background-image: url("images/BG3.jpg");
+    background-image: url("../../images/BG3.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -27,4 +23,35 @@ body {
 
 footer {
     color: chocolate;
+}
+
+footer a{
+    border: 1px solid var(--lgnbtn-border-color);
+    background: var(--lgnbtn-bg-color);
+    border-radius: 3px;
+}
+
+footer a:hover {
+    background: var(--lgnbtn-bg-color-hover);
+    color:var(--txt-color);
+}
+
+:root{
+    --lgnbtn-bg-color-hover:#D2691E;
+    --lgnbtn-bg-color:white;
+    --lgnbtn-border-color:#D2691E;;
+    --txt-color:white;;
+}
+
+.lgnbtn {
+    border: 1px solid var(--lgnbtn-border-color);
+    background: var(--lgnbtn-bg-color);
+    border-radius: 3px;
+    transition: all 250ms linear 125ms;
+}
+
+.lgnbtn:hover {
+    background: var(--lgnbtn-bg-color-hover);
+    color:var(--txt-color);
+    
 }
