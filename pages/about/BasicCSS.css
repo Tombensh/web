@@ -58,5 +58,4 @@ footer a:hover {
 .lgnbtn:hover {
     background: var(--lgnbtn-bg-color-hover);
     color:var(--txt-color);
-    
 }
