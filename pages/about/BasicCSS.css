@@ -6,7 +6,7 @@
 
 .HeaderLogo{
     position: relative;
-    left: 150px;
+    left: 125px;
     width: 350px;
 }
 
@@ -14,6 +14,7 @@
     color: #ffffff;
     font-style: oblique;
     font-size: larger;
+    width: 792px;
 }
 
 body {
@@ -42,7 +43,7 @@ footer a:hover {
 
 :root{
     --lgnbtn-bg-color-hover:#D2691E;
-    --lgnbtn-bg-color:white;
+    --lgnbtn-bg-color:#e9c38b;
     --lgnbtn-border-color:#D2691E;;
     --txt-color:white;;
 }
